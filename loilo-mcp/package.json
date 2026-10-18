@@ -1,0 +1,30 @@
+{
+  "name": "loilo-mcp",
+  "version": "2.0.0",
+  "description": "Official UI-driven Model Context Protocol (MCP) Server and Automation Client for LoiLoNote",
+  "type": "module",
+  "main": "src/loilo_mcp_server.mjs",
+  "bin": {
+    "loilo-mcp": "src/loilo_mcp_server.mjs"
+  },
+  "scripts": {
+    "start": "node src/loilo_mcp_server.mjs",
+    "mcp": "node src/loilo_mcp_server.mjs",
+    "example": "node examples/basic_example.mjs",
+    "example:bullying": "node examples/anti_bullying_cards.mjs",
+    "chrome": "./bin/launch_chrome_debug.sh"
+  },
+  "keywords": [
+    "loilonote",
+    "mcp",
+    "model-context-protocol",
+    "cdp",
+    "official-ui-automation",
+    "digital-agency-design-system",
+    "dads"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
