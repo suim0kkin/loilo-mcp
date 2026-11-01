@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33624831/README.md)
-# LoiLoNote Official UI-driven MCP & Automation Toolkit
+# LoiLoNote UnOfficial MCP
 
 ロイロノート（`https://loilonote.app`）を対象とした Model Context Protocol (MCP) サーバーおよび自動化クライアントです。
 
