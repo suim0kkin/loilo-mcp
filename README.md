@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4ad23c61-2345-46fc-9478-939cf965959c)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/343793908/701909537-4ad23c61-2345-46fc-9478-939cf965959c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261111T045714Z&X-Amz-Expires=300&X-Amz-Signature=c4db2d509967ed4377fb2f182a15630a95e5869b3834e8943db49a40a0060756&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)
 # LoiLoNote Unoficial MCP
 [![技術者倫理 遵守済み](https://img.shields.io/badge/%E6%8A%80%E8%A1%93%E8%80%85%E5%80%AB%E7%90%86-%E9%81%B5%E5%AE%88%E6%B8%88%E3%81%BF-0a0a0a?style=for-the-badge&labelColor=ffffff)](https://技術者倫理.com)
 
